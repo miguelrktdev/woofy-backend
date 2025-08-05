@@ -1,7 +1,7 @@
 {
-	"name": "backend",
+	"name": "backend-woofy",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Backend for Woofy Web App",
 	"main": "index.js",
 	"scripts": {
 		"commit": "gitmoji -c"
