@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "@miguelrktdev__",
   "license": "ISC",
-  "packageManager": "pnpm@10.18.1"
+  "packageManager": "pnpm@10.18.1",
+  "dependencies": {
+    "@types/node": "24.10.1",
+    "tsup": "8.5.1",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3"
+  }
 }
