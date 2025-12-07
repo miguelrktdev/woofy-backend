@@ -5,7 +5,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "commit": "gitmoji -c"
+    "commit": "gitmoji -c",
+    "dev": "tsx watch src/server.ts",
+    "build": "tsup src --out-dir dist",
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "@miguelrktdev__",
