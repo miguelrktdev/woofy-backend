@@ -1,0 +1,13 @@
+{
+  "name": "woofu-backend",
+  "version": "1.0.0",
+  "description": "backend for woofy web app",
+  "main": "index.js",
+  "scripts": {
+    "commit": "gitmoji -c"
+  },
+  "keywords": [],
+  "author": "@miguelrktdev__",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.1"
+}
