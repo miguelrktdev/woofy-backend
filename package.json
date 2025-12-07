@@ -2,6 +2,7 @@
   "name": "woofu-backend",
   "version": "1.0.0",
   "description": "backend for woofy web app",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "commit": "gitmoji -c"
