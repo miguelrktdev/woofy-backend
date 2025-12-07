@@ -137,4 +137,3 @@ Post (1) ---------- (N) Like
 Post (1) ---------- (N) Comment
 
 Dog (N) ----------- (N) Dog   (via Follow)
-editor rules
